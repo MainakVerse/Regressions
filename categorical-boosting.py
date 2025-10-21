@@ -77,4 +77,4 @@ class CatBoostRegressorScratch:
         y_pred = np.full(X_proc.shape[0], self.F0)
         for model in self.models:
             y_pred += self.learning_rate * model.predict(X_proc)
-        return y_pred
+        return y_pred # Return final predictions
