@@ -12,7 +12,7 @@ Each algorithm includes its name, code file link, and corresponding import synta
 | 1 | Simple Linear Regression | [Link](https://github.com/MainakVerse/Regressions/blob/main/simple-linear-regression.py) | `from sklearn.linear_model import LinearRegression` |
 | 2 | Multiple Linear Regression | [Link](https://github.com/MainakVerse/Regressions/blob/main/multiple-linear-regression.py) | `from sklearn.linear_model import LinearRegression` |
 | 3 | Ridge Regression | [Link](https://github.com/MainakVerse/Regressions/blob/main/ridge-regression.py) | `from sklearn.linear_model import Ridge` |
-| 4 | RidgeCV | [Link](https://github.com/MainakVerse/Regressions/blob/main/ridgecv.py) | `from sklearn.linear_model import RidgeCV` |
+| 4 | RidgeCV | [Link](https://github.com/MainakVerse/Regressions/blob/main/ridge-cross-validation.py) | `from sklearn.linear_model import RidgeCV` |
 | 5 | Lasso Regression | [Link](https://github.com/MainakVerse/Regressions/blob/main/lasso-regression.py) | `from sklearn.linear_model import Lasso` |
 | 6 | LassoCV | [Link](https://github.com/MainakVerse/Regressions/blob/main/lassocv.py) | `from sklearn.linear_model import LassoCV` |
 | 7 | Elastic Net Regression | [Link](https://github.com/MainakVerse/Regressions/blob/main/elastic-net.py) | `from sklearn.linear_model import ElasticNet` |
