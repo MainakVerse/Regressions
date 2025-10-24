@@ -3,6 +3,12 @@
 A complete collection of **50 classical Machine Learning regression algorithms** (no Deep Learning).  
 Each algorithm includes its name, code file link, and corresponding import syntax.
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-≥1.0-orange?logo=scikit-learn)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
 ---
 
 ## 🔹 Linear & Regularized Regression
